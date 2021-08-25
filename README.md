@@ -1,4 +1,4 @@
-# A-study-on-the-repercussions-of-the-Covid-19-pandemic-in-the-mental-health-of-the-general-public
+# A study on the repercussions of the Covid-19 pandemic in the mental health of the general public
 
 The Coronavirus pandemic is an ongoing global pandemic caused by SARS‑CoV‑2. To prevent the risk of the virus spreading, many countries enacted a lockdown, which is described as a requirement for citizens to stay put in order to avert serious harm to themselves or others if they move around freely. People of all ages and areas of life have been affected by the epidemic, which has resulted in job losses, school and college closures, the postponement or cancellation of sporting, religious, political, and cultural events, and severe supply shortages aggravated by panic shopping. The general public's mental health is one of the most pressing concerns during these times, thus this study focused mostly on the anxiety levels people experience as a result of the rapid change in their daily lives. Anxiety was chosen as a mental health indicator since it is the body's natural response to stress.
 
